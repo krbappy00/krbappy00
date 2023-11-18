@@ -2,18 +2,7 @@
 <h3 align="left">💫 About Me</h3>
 - 💻 I'm a full-time front-end developer, React and Angular is my weapon of choice for crafting dynamic web applications.<br>- ⌨️ When I'm not coding, I'm delving into the fascinating realm of mechanical keyboards, chasing that perfect tactile feel and personalizing my setup.<br>- 📚 I live by the philosophy of continuous learning, always seeking to improve my skills and expand my knowledge.
 <br/>  
-<h3 align="left">🌐 Connect With Me</h3>
-<div align="center">
-<a href="https://github.com/krbappy00" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/krb007" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/krbappy/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
 <br/>  
 <h3 align="left">💻 Languages and Tools</h3>
 <div align="center"> 
@@ -57,3 +46,15 @@
 
 [![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
 [![krbappy00's GitHub | Topics Over Time](https://stats.quine.sh/krbappy00/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
+<h3 align="left">🌐 Connect With Me</h3>
+<div align="center">
+<a href="https://github.com/krbappy00" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/krb007" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/krbappy/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
