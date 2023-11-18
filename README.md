@@ -54,8 +54,6 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>  
 <br/>  
-[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
 
 [![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
 [![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
