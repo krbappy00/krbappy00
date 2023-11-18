@@ -56,4 +56,4 @@
 <br/>  
 
 [![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
-[![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
+[![krbappy00's GitHub | Topics Over Time](https://stats.quine.sh/krbappy00/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
