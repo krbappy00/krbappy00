@@ -54,9 +54,4 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>  
 <br/>  
-<h3 align="left">📊 Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krbappy00&show_icons=true&locale=en&layout=compact" alt="krbappy00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krbappy00&show_icons=true&locale=en" alt="krbappy00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krbappy00&" alt="krbappy00" /></p>
+[![krbappy00's GitHub | Stats](https://stats.quine.sh/krbappy00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=krbappy00)
