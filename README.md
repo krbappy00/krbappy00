@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Khalisur Rahman Bappy</h1>
 <h3 align="left">💫 About Me</h3>
-- 💻 I'm a full-time front-end developer, and Angular is my weapon of choice for crafting dynamic web applications.<br>- ⌨️ When I'm not coding, I'm delving into the fascinating realm of mechanical keyboards, chasing that perfect tactile feel and personalizing my setup.<br>- 📈 I'm also an entrepreneur, running my own business in the world of mechanical keyboards. It's where my love for technology meets my business acumen.<br>- 📚 I live by the philosophy of continuous learning, always seeking to improve my skills and expand my knowledge.
+- 💻 I'm a full-time front-end developer, and Angular is my weapon of choice for crafting dynamic web applications.<br>- ⌨️ When I'm not coding, I'm delving into the fascinating realm of mechanical keyboards, chasing that perfect tactile feel and personalizing my setup.<br>- 📚 I live by the philosophy of continuous learning, always seeking to improve my skills and expand my knowledge.
 <br/>  
 <h3 align="left">🌐 Connect With Me</h3>
 <div align="center">
