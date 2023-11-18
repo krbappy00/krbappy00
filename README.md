@@ -55,5 +55,8 @@
 </div>  
 <br/>  
 <h3 align="left">📊 Github Stats</h3>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifurrahmanpial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asifurrahmanpial" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=asifurrahmanpial&theme=transparent" alt="asifurrahmanpial" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krbappy00&show_icons=true&locale=en&layout=compact" alt="krbappy00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krbappy00&show_icons=true&locale=en" alt="krbappy00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krbappy00&" alt="krbappy00" /></p>
